@@ -1,2 +1,13 @@
 C8051F560_defs.h
 compiler_defs.h
+*.txt
+main.#1
+*.#2
+main.#3
+*.LST
+main.OBJ
+*.#1
+nokia.#3
+*.M51
+tmp.out
+nokia
